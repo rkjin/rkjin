@@ -1,9 +1,8 @@
 ### Hi there? 
 ### I'm Bongjin.
 ### bjkim3333@gmail.com
-<a href="default.asp"><img src=https://user-images.githubusercontent.com/87571989/198910800-8fbc3b43-959a-4435-85ce-93292ff50c37.png></img> </a>
-
-
+![SAM_0110-removebg-preview](https://user-images.githubusercontent.com/87571989/198912786-69c883f3-952f-4f00-a362-edef6dfa4553.png)
+![Screenshot from 2022-03-08 13-08-41](https://user-images.githubusercontent.com/87571989/198912794-f8a403f6-942d-4bc1-bc13-49f874a2e420.png)
 
 <!--
 **rkjin/rkjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
