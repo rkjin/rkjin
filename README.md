@@ -1,6 +1,5 @@
-### Hi there? 
-### I'm Bongjin.
-### bjkim3333@gmail.com
+### Hi there? I'm Bongjin.
+### e-mail: bjkim3333@gmail.com
 
 <!-- ### StereoDepth Image -->
 <!-- ![left](https://user-images.githubusercontent.com/87571989/198913120-f8c0c862-ee06-4131-9d55-f423c065667c.jpg) -->
