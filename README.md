@@ -1,7 +1,6 @@
 ### Hi there? I'm Bongjin.
-- 🔭 I’m currently working on ... 
-- 🌱 I’m currently learning ...<img src="https://img.shields.io/badge/StereoDNN-FFCA28?style=flat-square&logo=firebase&logoColor=white"/> <img src="https://img.shields.io/badge/wave seperation-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
-- 👯  😄 🤔  💬  
+ 
+- 🌱 I’m currently learning ...StereoDNN, NonoDNN, Wave seperation
 - 📫 How to reach me: ...<img src="https://img.shields.io/badge/bjkim3333@gmail-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
 - ⚡ Visitors: ...[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frkjin%2F&count_bg=%23071BF4&title_bg=%23555555&icon=github.svg&icon_color=%23DEDEE6&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -19,5 +18,10 @@
 
 <!--
 **rkjin/rkjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on ... 
+- 🌱 I’m currently learning ... 
+- 👯  😄 🤔  💬  
+- 📫 How to reach me: ... 
+- ⚡ Visitors: ..
 -->
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
