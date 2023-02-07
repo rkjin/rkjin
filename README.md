@@ -1,7 +1,19 @@
 ### Hi there? I'm Bongjin.
-### 🌱 I’m currently studying stereo DNN on jetson nano
-### 📫 How to reach me: bjkim3333@gmail.com
-<br><br><br>
+- 🔭 I’m currently working on ...<img src="https://img.shields.io/badge/StereoDNN-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
+- 🌱 I’m currently learning ...<img src="https://img.shields.io/badge/StereoDNN-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...<img src="https://img.shields.io/badge/bjkim3333@gmail-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
+- 😄 Pronouns: ...
+- ⚡ Visitors: ...[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frkjin%2F&count_bg=%23071BF4&title_bg=%23555555&icon=github.svg&icon_color=%23DEDEE6&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rkjin)](https://github.com/rkjin/github-readme-stats)
+- 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rkjin)](https://github.com/rkjin/github-readme-stats)
+
+ 
+
 <!-- ### StereoDepth Image -->
 <!-- ![left](https://user-images.githubusercontent.com/87571989/198913120-f8c0c862-ee06-4131-9d55-f423c065667c.jpg) -->
 <!-- ![img_screenshot_02 04 2022](https://user-images.githubusercontent.com/87571989/198913128-6ab38e37-3935-40fe-af2c-053f329e4b12.png) -->
@@ -24,3 +36,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
