@@ -1,11 +1,8 @@
 ### Hi there? I'm Bongjin.
-- 🔭 I’m currently working on ...<img src="https://img.shields.io/badge/self flying-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
+- 🔭 I’m currently working on ... 
 - 🌱 I’m currently learning ...<img src="https://img.shields.io/badge/StereoDNN-FFCA28?style=flat-square&logo=firebase&logoColor=white"/> <img src="https://img.shields.io/badge/wave seperation-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 👯  😄 🤔  💬  
 - 📫 How to reach me: ...<img src="https://img.shields.io/badge/bjkim3333@gmail-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
-- 😄 
 - ⚡ Visitors: ...[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frkjin%2F&count_bg=%23071BF4&title_bg=%23555555&icon=github.svg&icon_color=%23DEDEE6&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rkjin)](https://github.com/rkjin/github-readme-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rkjin)](https://github.com/rkjin/github-readme-stats)
