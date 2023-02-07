@@ -1,11 +1,12 @@
 ### Hi there? I'm Bongjin.
-### e-mail: bjkim3333@gmail.com
-
+### 🌱 I’m currently studying stereo DNN on jetson nano
+### 📫 How to reach me: bjkim3333@gmail.com
+<br><br><br>
 <!-- ### StereoDepth Image -->
 <!-- ![left](https://user-images.githubusercontent.com/87571989/198913120-f8c0c862-ee06-4131-9d55-f423c065667c.jpg) -->
 <!-- ![img_screenshot_02 04 2022](https://user-images.githubusercontent.com/87571989/198913128-6ab38e37-3935-40fe-af2c-053f329e4b12.png) -->
-### Turtlebot3 
-![SAM_0110-removebg-preview](https://user-images.githubusercontent.com/87571989/198912786-69c883f3-952f-4f00-a362-edef6dfa4553.png)
+### Turtlebot3 added stereo camera on x-y tilt servo and screen 
+![02030031-removebg-preview](https://user-images.githubusercontent.com/87571989/217238390-7fc70b04-48aa-481a-a25e-32ef007d76fb.png)
 ### MonoDepth Image
 ![Screenshot from 2022-03-08 13-08-41](https://user-images.githubusercontent.com/87571989/198912794-f8a403f6-942d-4bc1-bc13-49f874a2e420.png)
 
